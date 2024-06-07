@@ -377,25 +377,25 @@ label{
     margin: 10px;
 }
 .img-grid-layout .two{
-    background-image: url(../assets/asset\ 39.jpeg);
+    background-image: url(./assets/asset\ 39.jpeg);
 }
 .img-grid-layout .three{
-    background-image: url(../assets/assets\ 40.jpg);  
+    background-image: url(./assets/assets\ 40.jpg);  
 }
 .img-grid-layout .four{
-    background-image: url(../assets/asset\ 38.jpeg);
+    background-image: url(./assets/asset\ 38.jpeg);
    
 }
 .img-grid-layout .five{
-    background-image: url(../assets/asset\ 41.jpeg);
+    background-image: url(./assets/asset\ 41.jpeg);
    
 }
 .img-grid-layout .seven{
-    background-image: url(../assets/asset\ 43.jpeg);
+    background-image: url(./assets/asset\ 43.jpeg);
    
 }
 .img-grid-layout .eight{
-    background-image: url(../assets/asset\ 42.jpeg);
+    background-image: url(./assets/asset\ 42.jpeg);
    
 }
 
@@ -598,16 +598,16 @@ label{
     grid-gap: 20px;
 }
 .page-3 .explore-city-img .first-city{
-    background-image: url(../assets/jaipur.jpg);
+    background-image: url(./assets/jaipur.jpg);
 }
 .page-3 .explore-city-img .second-city{
-    background-image: url(../assets/delhi.jpg);
+    background-image: url(./assets/delhi.jpg);
 }
 .page-3 .explore-city-img .third-city{
-    background-image: url(../assets/mumbai.jpg);
+    background-image: url(./assets/mumbai.jpg);
 }
 .page-3 .explore-city-img .fourth-city{
-    background-image: url(../assets/beng.jpg);
+    background-image: url(./assets/beng.jpg);
 }
 
 
